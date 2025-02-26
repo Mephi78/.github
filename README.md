@@ -6,6 +6,9 @@
 </div>
 
 ## Roadmap
-- [ ] LICENSE
+- [x] LICENSE-Templates
 - [ ] CONTRIBUTING.md
 - [ ] CODE_OF_CONDUCT.md
+- [ ] .gitignore
+- [ ] ISSUE_TEMPLATE/bug_report.md
+- [ ] ISSUE_TEMPLATE/feature_request.md
