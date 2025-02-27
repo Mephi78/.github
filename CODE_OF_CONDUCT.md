@@ -21,7 +21,7 @@ To grow a positive environment for the success of our community...
 ## Our Responsibilities
 
 Each community member and guest is responsible for their own actions and is encouraged  
-to report inappropriate behavior by addressing `@Mephi78` or labeling with `admin`.
+to report inappropriate behavior or content by addressing <span style="color: #00cc99;">@Mephi78</span> or labeling <span style="color: #ff9900; border: 1px solid; border-radius: 12px; padding: 2px 6px; font-size: smaller; background-color: rgba(255, 153, 0, 0.2);">admin</span>.
 
 Any complaint will be reviewed and investigated fairly, in a timely manner and by  
 respecting the privacy and security of the incident reporter.
